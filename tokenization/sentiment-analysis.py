@@ -19,3 +19,5 @@ Text->Vector (text will be represented by numerical format)
 4. Word2Vec
 5. AvgWord2Vec
 """
+
+git@github-atanu1992:atanu1992/python-practice.git
